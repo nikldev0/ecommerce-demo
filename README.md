@@ -15,3 +15,8 @@ In other words, an entry in the user table will create an entry in the authentic
 With wishlist implementation:
 
 ![image](https://github.com/nikldev0/ecommerce-demo/assets/57417252/92e5b662-49a2-49b4-bcba-47bb65a4f3ed)
+
+Api testing with Swagger UI:
+
+![image](https://github.com/nikldev0/ecommerce-demo/assets/57417252/8e7b12f9-c081-4a1b-9868-9db0d80b9c56)
+
